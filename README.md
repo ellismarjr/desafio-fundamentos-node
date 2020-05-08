@@ -18,6 +18,12 @@ This challenge 05 was developed to practice the skills acquired with [RocketSeat
 - [NodeJS](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/docs/home.html)
 - [Insomnia](https://insomnia.rest/download/): REST Client to test API
+- [Express](https://expressjs.com/)
+- [UUIDv4](https://www.npmjs.com/package/uuidv4)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Editor Config](https://editorconfig.org/)
 
 ## :information_source: How To Use
 
